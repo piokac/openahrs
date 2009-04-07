@@ -7,6 +7,7 @@ Code is released under the GPL v2 license.
 
 openAHRS is in beta stage. Software and hardware schematics are available through git or the web interface through github.
 
+----
 
 == Software ==
 A 7-state Kalman Filter is implemented, tracking attitude (roll,pitch,yaw) and gyro bias.
@@ -20,8 +21,9 @@ Platform-specific AHRS's are placed inside the AHRSs/ folder. Currently there is
 
 === Ports ===
 
-* [http://github.com/cbecker/openahrs/wikis/avr32-ahrs AVR32 ATNGW100]
+  * [http://github.com/cbecker/openahrs/wikis/avr32-ahrs AVR32 ATNGW100]
 
+----
 
 = References =
 
