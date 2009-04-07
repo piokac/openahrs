@@ -21,7 +21,7 @@ Platform-specific AHRS's are placed inside the AHRSs/ folder. Currently there is
 
 === Ports ===
 
-  * [http://github.com/cbecker/openahrs/wikis/avr32-ahrs AVR32 ATNGW100]
+  * [http://code.google.com/p/openahrs/wiki/avr32AHRS AVR32 ATNGW100]
 
 ----
 
