@@ -1,3 +1,5 @@
+#summary Main wiki
+
 = openAHRS =
 
 openAHRS is a free open-source Software/Hardware IMU(Inertial Measurement Unit) / AHRS (Attitude Heading Reference System).
