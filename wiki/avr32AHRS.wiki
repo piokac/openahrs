@@ -1,3 +1,5 @@
+#summary AVR32 port
+
 The avr32 AHRS is based on the [http://www.avrfreaks.net/wiki/index.php/Documentation:NGW ATNGW100 reference design board].
 The ATNGW100 runs Linux 2.6.x and provides expansion ports used to connect to the SPI A/D converters and the accelerometer.
 
