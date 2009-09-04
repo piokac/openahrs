@@ -33,3 +33,5 @@ Platform-specific AHRS's are placed inside the AHRSs/ folder. Currently there is
   * Review of Attitude Representations Used for Aircraft Kinematics, W. F. Phillips and C. E. Hailey
   * An Introduction to the Kalman Filter, Greg Welch and Gary Bishop
   * [http://fred.unis.no/Kalman/Master_Thesis_Mathieu.pdf Airborne attitude estimation using a Kalman filter]
+  * THE SQUARE-ROOT UNSCENTED KALMAN FILTER FOR STATE AND PARAMETER-ESTIMATION, Rudolph van der Merwe and Eric A. Wan
+  * A General Method for Approximating Nonlinear Transformations of Probability Distributions, Simon Julier and Jerey K Uhlmann
